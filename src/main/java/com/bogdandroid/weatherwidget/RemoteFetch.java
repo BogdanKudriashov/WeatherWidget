@@ -19,7 +19,7 @@ public class RemoteFetch {
 	
 	private static final String OPEN_WEATHER_MAP_API_LAT_LON = "http://api.openweathermap.org/data/2.5/forecast?";
 	
-	private static final String API_KEY = "0da5ca7d6162511bcf28d3a4a8a4cb2f";
+	private static final String API_KEY = "";
 	
 
     public static JSONObject getJSONCityName(Context context, String city){
